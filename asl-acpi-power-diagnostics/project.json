@@ -1,0 +1,8 @@
+{
+  "id": "04",
+  "name": "04-asl-acpi-power-diagnostics",
+  "title": "AI-Assisted ACPI Power Optimization & Diagnostics System",
+  "language": "ASL",
+  "domain": "Hardware Power Architecture & Firmware Diagnostics",
+  "description": "Analyzes ACPI DSDT/SSDT power control tables, monitors thermal runaway & P/C-state transitions, and optimizes energy efficiency across heterogeneous processor cores."
+}
