@@ -1,4 +1,4 @@
-# 04 - ACPI Power & Thermal Diagnostics Architecture (ASL)
+# ACPI Power & Thermal Diagnostics Architecture (ASL)
 
 ## Executive Overview
 Low-level platform firmware engineering in **ACPI Source Language (ASL)**. It implements **Collaborative Processor Performance Control (_CPC)**, dynamic thermal management zones (`_TZ00`), passive/active cooling policies (`_PSV`, `_AC0`), and hardware-enforced power caps for high-density enterprise server racks.
